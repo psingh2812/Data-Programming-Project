@@ -9,6 +9,7 @@ Part 1
 
 Part 2
 - Stock Market Prediction model
+- Data set is downloaded from stool.com.It has been cleaned and transformed to fit our model
 - It predicts direction of market on the basis of % return of 5 previous days and volume of shares traded on previous days.
 - It uses Logistic Regression algorithm.
     
