@@ -1,4 +1,4 @@
-# Data-Programming-Project
+# Stock Market - Data-Programming-Project
 Stock Market Prediction Model and Visualization of Individual Stocks
 
 Project is divided into 2 parts.
